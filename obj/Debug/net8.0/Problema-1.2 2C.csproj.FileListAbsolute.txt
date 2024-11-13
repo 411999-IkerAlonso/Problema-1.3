@@ -1,0 +1,14 @@
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\bin\Debug\net8.0\Problema-1.2 2C.exe
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\bin\Debug\net8.0\Problema-1.2 2C.deps.json
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\bin\Debug\net8.0\Problema-1.2 2C.runtimeconfig.json
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\bin\Debug\net8.0\Problema-1.2 2C.dll
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\bin\Debug\net8.0\Problema-1.2 2C.pdb
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\obj\Debug\net8.0\Problema-1.2 2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\obj\Debug\net8.0\Problema-1.2 2C.AssemblyInfoInputs.cache
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\obj\Debug\net8.0\Problema-1.2 2C.AssemblyInfo.cs
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\obj\Debug\net8.0\Problema-1.2 2C.csproj.CoreCompileInputs.cache
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\obj\Debug\net8.0\Problema-1.2 2C.dll
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\obj\Debug\net8.0\refint\Problema-1.2 2C.dll
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\obj\Debug\net8.0\Problema-1.2 2C.pdb
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\obj\Debug\net8.0\Problema-1.2 2C.genruntimeconfig.cache
+C:\Users\syste\OneDrive\Escritorio\FACULTAD\CURSADO\SEGUNDO CUATRIMESTRE\PROGRAMACION II\UNIDAD 1\EJERCICIOS\Problema-1.2 2C\obj\Debug\net8.0\ref\Problema-1.2 2C.dll

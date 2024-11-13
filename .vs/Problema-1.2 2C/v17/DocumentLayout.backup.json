@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\UNIDAD 1\\EJERCICIOS\\Problema-1.2 2C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0F5000-9EC3-41D5-AB39-9015F7213125}|Problema-1.2 2C.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\segundo cuatrimestre\\programacion ii\\unidad 1\\ejercicios\\problema-1.2 2c\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0F5000-9EC3-41D5-AB39-9015F7213125}|Problema-1.2 2C.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0F5000-9EC3-41D5-AB39-9015F7213125}|Problema-1.2 2C.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\segundo cuatrimestre\\programacion ii\\unidad 1\\ejercicios\\problema-1.2 2c\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0F5000-9EC3-41D5-AB39-9015F7213125}|Problema-1.2 2C.csproj|solutionrelative:pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0F5000-9EC3-41D5-AB39-9015F7213125}|Problema-1.2 2C.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\segundo cuatrimestre\\programacion ii\\unidad 1\\ejercicios\\problema-1.2 2c\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0F5000-9EC3-41D5-AB39-9015F7213125}|Problema-1.2 2C.csproj|solutionrelative:suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0F5000-9EC3-41D5-AB39-9015F7213125}|Problema-1.2 2C.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\segundo cuatrimestre\\programacion ii\\unidad 1\\ejercicios\\problema-1.2 2c\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0F5000-9EC3-41D5-AB39-9015F7213125}|Problema-1.2 2C.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0F5000-9EC3-41D5-AB39-9015F7213125}|Problema-1.2 2C.csproj|c:\\users\\syste\\onedrive\\escritorio\\facultad\\cursado\\segundo cuatrimestre\\programacion ii\\unidad 1\\ejercicios\\problema-1.2 2c\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0F5000-9EC3-41D5-AB39-9015F7213125}|Problema-1.2 2C.csproj|solutionrelative:iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Suelto.cs",
+              "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\UNIDAD 1\\EJERCICIOS\\Problema-1.2 2C\\Suelto.cs",
+              "RelativeDocumentMoniker": "Suelto.cs",
+              "ToolTip": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\UNIDAD 1\\EJERCICIOS\\Problema-1.2 2C\\Suelto.cs",
+              "RelativeToolTip": "Suelto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:25:48.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pack.cs",
+              "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\UNIDAD 1\\EJERCICIOS\\Problema-1.2 2C\\Pack.cs",
+              "RelativeDocumentMoniker": "Pack.cs",
+              "ToolTip": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\UNIDAD 1\\EJERCICIOS\\Problema-1.2 2C\\Pack.cs",
+              "RelativeToolTip": "Pack.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:25:40.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\UNIDAD 1\\EJERCICIOS\\Problema-1.2 2C\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\UNIDAD 1\\EJERCICIOS\\Problema-1.2 2C\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:23:19.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrecio.cs",
+              "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\UNIDAD 1\\EJERCICIOS\\Problema-1.2 2C\\IPrecio.cs",
+              "RelativeDocumentMoniker": "IPrecio.cs",
+              "ToolTip": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\UNIDAD 1\\EJERCICIOS\\Problema-1.2 2C\\IPrecio.cs",
+              "RelativeToolTip": "IPrecio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:22:39.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\UNIDAD 1\\EJERCICIOS\\Problema-1.2 2C\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\syste\\OneDrive\\Escritorio\\FACULTAD\\CURSADO\\SEGUNDO CUATRIMESTRE\\PROGRAMACION II\\UNIDAD 1\\EJERCICIOS\\Problema-1.2 2C\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:21:40.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
